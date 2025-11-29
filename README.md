@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Platform-Linux-success?style=flat-square">
   <img src="https://img.shields.io/badge/Language-Bash-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Anonymity-Tor-orange?style=flat-square">
-  <img src="https://img.shields.io/github/license/nithun618/IPGHOST?style=flat-square">
 </p>
 
 <p align="center">
@@ -56,4 +55,5 @@ This tool is built for:
 ```bash
 git clone https://github.com/nithun618/IPGHOST
 cd IPGHOST
-chmod +x ipghost.sh
+chmod +x ipghost.sh install.sh
+sudo bash install.sh
